@@ -35,3 +35,5 @@ Examples: `1` or `1,2,3`
 
 ### 📝 Credits
 [@eritislami/evobot](https://github.com/eritislami/evobot)
+
+<a href="https://discordbotlist.com/bots/867696370584780840"><img src="https://discordbotlist.com/api/v1/bots/867696370584780840/widget"></a>
